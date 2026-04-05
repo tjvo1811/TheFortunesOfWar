@@ -1,9 +1,9 @@
 import { motion, useInView } from 'framer-motion'
 import { useEffect, useRef, useState } from 'react'
 
-const PANEL_DURATION = 1.25
-const CHART_MOUNT_BASE_MS = 700
-const STAGGER_MS = 100
+const PANEL_DURATION = 0.48
+const CHART_MOUNT_BASE_MS = 269
+const STAGGER_MS = 38
 
 export default function ChartReveal({ children, index = 0 }) {
   const ref = useRef(null)

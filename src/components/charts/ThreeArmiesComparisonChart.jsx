@@ -73,7 +73,7 @@ export default function ThreeArmiesComparisonChart() {
             fill="#d4a017"
             radius={[2, 2, 0, 0]}
             {...rcAnim}
-            animationBegin={rcAnim.animationBegin + 450}
+            animationBegin={rcAnim.animationBegin + 173}
           />
         </BarChart>
       </ResponsiveContainer>

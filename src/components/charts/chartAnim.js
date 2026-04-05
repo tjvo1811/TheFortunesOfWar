@@ -1,7 +1,7 @@
-/** Shared Recharts motion, slow enough to read while scrolling into view */
+/** Shared Recharts motion, tuned for scroll-into-view readability */
 export const rcAnim = {
   isAnimationActive: true,
-  animationDuration: 3200,
-  animationBegin: 180,
+  animationDuration: 1229,
+  animationBegin: 69,
   animationEasing: 'ease-out',
 }
