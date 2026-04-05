@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="7" fill="#1a1a14"/>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6.5" fill="none" stroke="#7a9e7e" stroke-opacity="0.4"/>
+  <!-- VC · ARVN · US — same hues as the site’s charts -->
+  <rect x="5.5" y="17" width="6" height="11" rx="1.25" fill="#c0392b"/>
+  <rect x="13" y="9" width="6" height="19" rx="1.25" fill="#d4a017"/>
+  <rect x="20.5" y="13" width="6" height="15" rx="1.25" fill="#4a7fb5"/>
+</svg>
